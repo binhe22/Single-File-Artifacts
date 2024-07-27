@@ -13,3 +13,7 @@ requiredFiles = [".replit", "replit.nix"]
 [deployment]
 run = ["python3", "main.py"]
 deploymentTarget = "cloudrun"
+
+[[ports]]
+localPort = 7860
+externalPort = 80
