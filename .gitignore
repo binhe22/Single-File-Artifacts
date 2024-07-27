@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# replit
+.replit
+poetry.lock
+pyproject.toml
+replit.nix
+
 # Distribution / packaging
 .Python
 build/
