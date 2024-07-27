@@ -1,7 +1,5 @@
-import os
 from typing import List, Tuple
-import anthropic
-from e2b.api.v2.client.models import sandbox
+# from e2b.api.v2.client.models import sandbox
 import gradio as gr
 from anthropic import Anthropic
 from e2b import Sandbox, api
