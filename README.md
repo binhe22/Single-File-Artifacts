@@ -1,4 +1,4 @@
-# Artifacts in One File
+# Artifacts in One File/Single File Artifacts
 
 [English Version](#english-version) | [中文版本](#中文版本)
 
@@ -88,4 +88,4 @@ python3 main.py
 
 [Gradio](https://www.gradio.app) 非常容易上手，让不能熟练使用React 等前端技术栈的程序员也能快速开发一个 UI，验证产品。
 
-``
+
