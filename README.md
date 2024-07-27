@@ -1,5 +1,7 @@
 # Artifacts in One File/Single File Artifacts
 
+This is the **[Oneline Version](https://artifacts-gradio.replit.app/)**（code base in dev-online branch）, you can just visit the link and don't have to deploy it!
+
 
 This project is inspired by [ai-artifacts](https://github.com/e2b-dev/ai-artifacts/tree/main), aiming to implement a similar product in a simpler way to gain a deeper understanding of the technology.
 
