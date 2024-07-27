@@ -5,7 +5,7 @@ from anthropic import Anthropic
 from e2b import Sandbox
 
 default_page = "https://e2b.dev/"
-iframe_content = '<iframe src={} width="800px" height="800px"></iframe>'
+iframe_content = '<iframe src={} width="100%" height="800px"></iframe>'
 default_content = iframe_content.format(default_page)
 
 
@@ -68,7 +68,7 @@ def get_web_page_content(request_desc):
         if i.type == "text":
             content = i.text
         if i.type == "tool_use":
-            code = i.input["code"]
+            code = i.input.get("code")
     return content, code
 
 
