@@ -1,8 +1,5 @@
 # Artifacts in One File/Single File Artifacts
 
-[English Version](#english-version) 
-
-## English Version
 
 This project is inspired by [ai-artifacts](https://github.com/e2b-dev/ai-artifacts/tree/main), aiming to implement a similar product in a simpler way to gain a deeper understanding of the technology.
 
